@@ -1,5 +1,7 @@
 # Code Katas
 
-> because experience is the *only* teacher
+> Because experience is the *only* teacher...
 
-- [FizzBuzz]()
+## Implemented Katas
+
+- [FizzBuzz](https://github.com/lfenzo/code-katas/tree/main/fizzbuzz)
