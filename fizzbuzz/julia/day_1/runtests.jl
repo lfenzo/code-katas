@@ -1,6 +1,6 @@
 using Test
 
-include("./fizzbuzz.jl")
+include("./day_1.jl")
 
 @testset "Test dispatch correctness" begin
     @test_throws MethodError fizzbuzz()

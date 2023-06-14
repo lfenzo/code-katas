@@ -1,4 +1,4 @@
-*description copied from the [TDD manifesto website](https://tddmanifesto.com/exercises/).*
+*Description copied from the [TDD manifesto website](https://tddmanifesto.com/exercises/).*
 
 # Fizz-Buzz
 
